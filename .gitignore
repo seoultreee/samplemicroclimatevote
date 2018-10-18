@@ -1,0 +1,13 @@
+/target
+/.m2
+/mc-target
+
+/.classpath
+/.project
+/.settings
+
+/caches
+/local.properties
+.*.swp
+.DS_Store
+/src/main/liberty/config/server.env
